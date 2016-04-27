@@ -1,0 +1,1094 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"pa",
+				"parallax	(single.php)"
+			],
+			[
+				"opa",
+				"opacity	(style.scss)"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"my",
+				"myHeight"
+			],
+			[
+				"eve",
+				"evenContainerBlock"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"do",
+				"document	(footer.php)"
+			],
+			[
+				"unde",
+				"underline"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"child",
+				"children	(site.js)"
+			],
+			[
+				"user",
+				"userParent"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"dakr",
+				"darkblue	(style.scss)"
+			],
+			[
+				"A",
+				"ARROWS"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"ic",
+				"ico-okpay.png	w:25 h:25"
+			],
+			[
+				"foo",
+				"footer.jpg	w:1920 h:247"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"exe",
+				"extend	@extend"
+			],
+			[
+				"transp",
+				"transparent"
+			],
+			[
+				"header",
+				"header.jpg	w:1920 h:960"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"ff",
+				"ff-t	font-family: \"Times New Roman\", Times, Baskerville, Georgia, serif;"
+			],
+			[
+				"transpa",
+				"transparent	(_mixin.scss)"
+			],
+			[
+				"bod",
+				"body.jpg	w:400 h:375"
+			],
+			[
+				"toggle",
+				"toggleClass	(scripts.js)"
+			],
+			[
+				"targ",
+				"target=\"_blank	(scripts.js)"
+			],
+			[
+				"tar",
+				"target=\"_blank	(scripts.js)"
+			],
+			[
+				"hei",
+				"height	(main.scss)"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"clea",
+				"clearfix	(single-pholio.php)"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"cu",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"border",
+				"border-image: "
+			],
+			[
+				"bord",
+				"border-image:   (property)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"trs",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"article-",
+				"article-title"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"box-z",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"fff",
+				"F0F0F0"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"op:ms	-ms-filter:opacity"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "beat",
+		"selected_items":
+		[
+			[
+				"beat",
+				"HTMLBeautify"
+			],
+			[
+				"preti",
+				"HTMLPrettify"
+			],
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"cssc",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emme",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet enc",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet en",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tor",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"wo",
+				"WordPress: Open Config File"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"snip de",
+				"Snippet: desktop  laptop"
+			],
+			[
+				"sni mo",
+				"Snippet: smartphone"
+			],
+			[
+				"snipe",
+				"Snippet: :focus"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"clea",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gut",
+				"Git: Quick Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"colo",
+				"BracketHighlighter: Toggle Global Enable"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"restart",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Works/Verstka/doctormarina_bd"
+	],
+	"file_history":
+	[
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/functions.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/includes/player-score-wr.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/includes/player-score-qb.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/single-player.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/header.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/single.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/footer.php",
+		"/D/Works/Verstka/ulaf/assets/sass/main.scss",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/includes/player-score.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/loop.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/front-page.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/category.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/pagination.php",
+		"/D/Works/Verstka/ulaf/html/news.html",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/page.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/relative-pages.php",
+		"/D/Works/Verstka/ulaf/wordpress/relative-pages.php",
+		"/D/Works/Verstka/ulaf/html/page.html",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/index.php",
+		"/D/Works/Verstka/ulaf/html/index.html",
+		"/D/Works/Verstka/ulaf/gulpfile.js",
+		"/D/Works/Verstka/ulaf/assets/sass/import/_variables.scss",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/css/main.css",
+		"/D/Works/Verstka/ulaf/assets/sass/_pingvin.scss",
+		"/D/Works/Verstka/ulaf/html/css/style.css",
+		"/D/Works/Verstka/ulaf/wordpress/wp-config.php",
+		"/D/Works/Verstka/ulaf/.hgignore",
+		"/D/Works/Verstka/wp.un.techfunder/assets/js/site.js",
+		"/D/Works/Verstka/wp.un.techfunder/sorces/_test/index.html",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/header.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/footer.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/single.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/sidebar.php",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/style.scss",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/_left-menu.scss",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/_bootstrap.scss",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/functions.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/front-page.php",
+		"/D/Works/Verstka/wp.un.techfunder/sorces/jquery-panelsnap-master/demos/index.html",
+		"/D/Works/Verstka/wp.un.techfunder/sorces/_test/testers.html",
+		"/D/Works/Verstka/wp.un.techfunder/sorces/testers.html",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/_bck/single.php",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/import/_variables.scss",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/fonts/_font_roboto.scss",
+		"/D/Works/Verstka/wp-framework/assets/sass/main.scss",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/_bck/footer.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/style.css",
+		"/D/Works/Verstka/wp.un.techfunder/sorces/old_neededfiles.php",
+		"/D/Works/Verstka/wp.un.techfunder/assets/js/jquerypanelsnap.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/page-search.php",
+		"/D/Works/Verstka/telegram/HelloWorldBot.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/author-wiget.php",
+		"/D/Works/Verstka/topaz-checker/php/index.php",
+		"/D/Works/Verstka/topaz-checker/gulpfile.js",
+		"/D/Works/Verstka/cpo-dopusk/wordpress/wp-content/themes/cpo-dopusk/footer.php",
+		"/D/Works/Verstka/cpo-dopusk/assets/js/script.js",
+		"/D/Works/Verstka/cpo-dopusk/assets/js/scripts.js",
+		"/D/Works/Verstka/cpo-dopusk/wordpress/wp-content/themes/cpo-dopusk/page-forms.php",
+		"/D/Works/Verstka/dims-generator/gulpfile.js",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/vendor.scss",
+		"/D/Works/Verstka/wp.un.techfunder/sorces/ScrollMagic-master/examples/expert/mobile_advanced.html",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/search.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/page-impress.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/category.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/header-search-in.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/header-search.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/category-navi.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/archive-autoren.php",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/functions.php",
+		"/D/Cloud/Dropbox/Soft/SublimeText3/Data/Packages/JSLint/JSLint.sublime-settings",
+		"/D/Cloud/Dropbox/Soft/SublimeText3/Data/Packages/User/JSLint.sublime-settings",
+		"/D/Works/Verstka/wp.un.techfunder/gulpfile.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/header-front-page.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/comments.php",
+		"/D/Works/Verstka/saitobaza.ru/wordpress/wp-content/themes/wp-front/header.php",
+		"/D/Works/Verstka/saitobaza.ru/wordpress/wp-content/themes/wp-front/archive-pholio.php",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/_animate.scss",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/tonewtop.php",
+		"/D/Works/Verstka/wp-framework/assets/sass/import/_mixin.scss",
+		"/D/Works/Verstka/wp-framework/assets/sass/_sprite.scss",
+		"/D/Works/Verstka/wp-framework/assets/sass/import/_variables.scss",
+		"/D/Works/Verstka/wp-framework/gulpfile.js",
+		"/D/Works/Verstka/wp-framework/read.me",
+		"/D/Works/Verstka/tatto_andy/temp_test/main-client.scss",
+		"/D/Works/Verstka/tatto_andy/temp_test/main-my.scss",
+		"/D/Works/Verstka/tatto_andy/temp_test/main-client.css",
+		"/D/Works/Verstka/tatto_andy/temp_test/main-my.css",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/loop.php",
+		"/D/Works/Verstka/wp-framework/assets/sass/import/_wordpress.scss",
+		"/D/Works/Verstka/wp-framework/assets/sass/import/_buttons.scss",
+		"/D/Works/Verstka/wp-framework/assets/sass/grid/_bootstrap.scss",
+		"/D/Works/Verstka/wp-framework/assets/sass/fonts/_font_roboto.scss",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/css/style.css",
+		"/D/Works/Verstka/wp-framework/assets/js/respond.js",
+		"/D/Works/Verstka/wp-framework/assets/js/modernizr.js",
+		"/D/Works/Verstka/wp-framework/package.json",
+		"/D/Works/Verstka/wp-framework/task.todo",
+		"/D/Works/Verstka/wp-framework/.jshintignore",
+		"/D/Works/Verstka/wp-framework/.jshintrc",
+		"/D/Works/Verstka/wp-framework/.editorconfig",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/single.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/search.php.old",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/searchform.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/templates/search-results.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/searchwp-live-search.min.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/includes/class-form.php",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/loop.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/source/searchwp-live-search.js",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/_live-search-style.scss",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/live-search-style.scss",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/includes/class-relevanssi-bridge.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/includes/class-template.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/assets/index.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/source/wrapper.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/source/searchwp-live-search-staged.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/source/index.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/plugins/searchwp-live-ajax-search/templates/index.php",
+		"/D/Works/Verstka/wp.un.techfunder/assets/js/daves-wordpress-live-search.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/js/daves-wordpress-live-search.min.js",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/class-daves-wordpress-live-search.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/daves-wordpress-live-search.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/admin/admin_header.tpl.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/js/dwls-results.tpl",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/admin/daves-wordpress-live-search-admin-appearance.tpl.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/js/daves-wordpress-live-search.js",
+		"/D/Works/Verstka/wp.un.techfunder/assets/sass/daves-wordpress-live-search_custom.scss",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/includes/daves-wordpress-live-search/admin/daves-wordpress-live-search-admin.tpl.php",
+		"/D/Works/Verstka/wp.un.techfunder/wordpress/wp-content/themes/converge/page.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"category",
+			"col-md-12-teams",
+			"artice",
+			"first",
+			"news",
+			"photo",
+			"history",
+			"section",
+			"submenu",
+			"src=\"img",
+			"brands",
+			"src=\"img/",
+			"section",
+			"#000215",
+			"#FFBE00",
+			".navbar-brand",
+			"#0d1a3b",
+			"navbar-brand",
+			"img/",
+			"logo",
+			".col-md-2",
+			"teams",
+			".col-md-12.teams",
+			"li",
+			".list-inline",
+			"need-fixed-position",
+			"GetCurrentTop",
+			"GetCurrentTop ",
+			"GetCurrentTop",
+			"SetNewPosition",
+			"pagination-inpage",
+			"single-page-container",
+			"target4",
+			"elementsToFix",
+			"AddNormalPosition",
+			"header-hamburger",
+			"btn-hamburger",
+			"lmen",
+			"body",
+			".header-hamburger",
+			".menu",
+			".header-hamburger",
+			"lmenu-opened",
+			"menu",
+			"lmenu",
+			"pagination-inpage",
+			".js",
+			".css",
+			"src",
+			".box",
+			"menu",
+			"$target",
+			".page-title",
+			"$target",
+			"callback_demo",
+			"prevnext-prev",
+			".head-articles",
+			".pagination-comments-count",
+			"need-fixed-position",
+			"nextSlide",
+			".container-bottom-block ",
+			"container-bottom-block-top",
+			"carousel-inner",
+			"lmenu-toggler-left",
+			"lmenu-io-opened",
+			"lmenu-toggler-left",
+			"prevnext",
+			"lmenu-io-opened",
+			"lmenu-toggler",
+			"scotch-panel-left",
+			"data-positio",
+			"font-f",
+			"SetNewPosition",
+			".hidden",
+			"hiddenx",
+			"hidden-",
+			"-hidden",
+			".prevnext",
+			".pagination-inpage",
+			"prevnext",
+			".prevnext-next",
+			"prevnext-next",
+			".prevnext-next",
+			"bg-darkblue",
+			".lmenu",
+			"pagination-comments-count",
+			"data-number",
+			"data-page",
+			"parallax-",
+			"parallax-fixed",
+			"data-page",
+			"data-panel",
+			"data-page",
+			"pagination-inpage ",
+			"active",
+			"page-pagin-current",
+			"menu",
+			".pagination-inpage ",
+			"pagination-comments-count",
+			"share-ico",
+			"Current element ID",
+			"author-wiget",
+			"MyPagination",
+			"currentActive",
+			"parallax-fixed",
+			"currentScrollPosition",
+			"currentParallaxed",
+			"myHeight",
+			"SetParallaxedHeight",
+			"SetParallaxedPosition",
+			"scroll",
+			"SetAllBlocksHeight",
+			".lmenu-io",
+			"container-comment",
+			"main-content",
+			"images",
+			"images/",
+			"panel",
+			"wpThemeName",
+			"docume",
+			"pagination-inpage",
+			"container-comment",
+			"pagination-comments-count",
+			"panel",
+			"single",
+			"mypa",
+			"IMPRESSUM"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sub-menu",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"img/content/",
+			"src=\"img/partners/",
+			"$nigger-blue",
+			"$gold",
+			"$dark-blue",
+			"img/teams/",
+			"need-inverse",
+			".lmenu",
+			"data-panel",
+			"<?php echo get_template_directory_uri(); ?>/images",
+			"<?php echo get_template_directory_uri(); ?>/images/",
+			"",
+			"https://",
+			"  ",
+			"TEMPLATEPATH . \"/includes/daves-wordpress-live-search/",
+			"TEMPLATEPATH . '/",
+			"TEMPLATEPATH . '",
+			"hti",
+			"TEMPLATEPATH .",
+			"  ",
+			"",
+			"hti",
+			"",
+			"hti",
+			"",
+			"ICONS",
+			"<?php the_title(); ?>",
+			"<?php get_the_title(); ?>",
+			"",
+			"<?php echo get_template_directory_uri(); ?>",
+			"$blue",
+			"$base-font-family",
+			"$darkblue",
+			"",
+			"$green",
+			"  ",
+			"",
+			"url(../img",
+			"url(img",
+			"fonts/",
+			"gray",
+			",",
+			"input",
+			"$border-blue",
+			"helveticaneue-cyr-bold-webfont",
+			"helveticaneue-cyr-light-webfont",
+			"helveticaneue-cyr-roman-webfont",
+			"helveticaneue-bold-webfont",
+			"helveticaneue-regular-webfont",
+			"$font-path",
+			"proxima-nova-regular",
+			"bebas-neue-light",
+			"bebas-neue-regular",
+			"bebas-neue-bold",
+			"src=\"img",
+			"img",
+			"src=\"img",
+			"</li>\n<li>",
+			"",
+			"src=\"http://www.billy-boy.de/",
+			"src=\"http://www.billy-boy.de//",
+			"rc=\"img",
+			"",
+			"../img/i_widget-link.gif",
+			"../img/i_widget-new.gif",
+			"../img/i_block-list.gif",
+			"../img/",
+			"../img",
+			"src=\"img",
+			"src=\"js",
+			"$transpbackground",
+			"$p->ID",
+			"<?php echo get_template_directory_uri(); ?>",
+			"url(http://demo.saitobaza.ru/wp-content/themes/octagram/",
+			"'octagram'",
+			"url(../img/fancybox/",
+			"ico",
+			"img",
+			"",
+			" itemprop=\"description\"",
+			"$blue",
+			"class=\"row tagid-container tagid-",
+			"class=\"cloud-simulation-object\" data-id=\"tagid",
+			"cloud-simulation-object",
+			"class=\"cloud-simulation-inner tagid-",
+			"",
+			"style\\s*=\\s*?(\"((\"\"|\\\\\"|[^\"<>])*?)\"|'((''|\\\\'|[^'<>])*?)'|[^\\s\"'>]*?)",
+			"\"tab-content-review clearfix\"",
+			"a href=\"#\"",
+			"",
+			"class=\"quont-minus\"",
+			"\"number-wrapper\"",
+			"<span class='number-wrapper'><input type=\"number\"",
+			"onchange=\"return validNum(document.ofrm)\"></span>",
+			"<span class='number-wrapper'>\n<input type=\"number\"",
+			"",
+			" : \"",
+			"city",
+			"",
+			" = ",
+			"",
+			" : ",
+			" : \"",
+			"\",",
+			" : ",
+			"  ",
+			"<li>",
+			"",
+			" : ",
+			"	",
+			"\" onchange=\"calculate()\"></td>\n</tr>",
+			"\n<input type=\"hidden\" name=\"",
+			"<td>\n                              <i class=\"psevdoradio fa fa-check-square\"></i>\n                              <?php the_field",
+			"<i class=\"psevdoradio fa fa-check-square\"></i>",
+			"<span class=\"psevdoradio\"><i class=\"fa fa-check-square\"></i></span>",
+			"",
+			"<span class=\"psevdoradio\"></span>",
+			"",
+			"<?php endif; ?>",
+			"",
+			"<span class=\"psevdoradio\"></span>",
+			"max=\"999\"",
+			"",
+			"\">",
+			" onchange",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"output.sftp":
+	{
+		"height": 149.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "doctormarina_bd.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Works\\Verstka\\tarkettpolby\\tarkettpolby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
