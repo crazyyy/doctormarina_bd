@@ -42,7 +42,6 @@ function adaption_setup() {
 	register_nav_menus( array(
 		'primary' => __( 'Primary Menu', 'adaption' ),
 		'social'  => __( 'Social Links Menu', 'adaption' ),
-		'headerok'  => __( 'Page Header', 'adaption' ),
 	) );
 
 	// Enable support for Post Formats.
@@ -81,6 +80,15 @@ function adaption_widgets_init() {
 	register_sidebar( array(
 		'name'          => __( 'Sidebar Two', 'adaption' ),
 		'id'            => 'sidebar-2',
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</aside>',
+		'before_title'  => '<h1 class="widget-title">',
+		'after_title'   => '</h1>',
+	) );
+	// Mobile only
+	register_sidebar( array(
+		'name'          => __( 'Mobile Widgets', 'adaption' ),
+		'id'            => 'sidebar-3',
 		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
 		'after_widget'  => '</aside>',
 		'before_title'  => '<h1 class="widget-title">',

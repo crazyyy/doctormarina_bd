@@ -8,9 +8,9 @@ if (file_exists($root.'/wp-load.php')) {
 	include_once($root.'/wp-config.php');
 	}
 
-$spamfree_options			= get_option('spamfree_options');
-$CookieValidationName  		= $spamfree_options['cookie_validation_name'];
-$CookieValidationKey 		= $spamfree_options['cookie_validation_key'];
+$spamfree_options			 = get_option('spamfree_options');
+$CookieValidationName  = $spamfree_options['cookie_validation_name'];
+$CookieValidationKey 	 = $spamfree_options['cookie_validation_key'];
 
 update_option( 'ak_count_pre', get_option('akismet_spam_count') );
 

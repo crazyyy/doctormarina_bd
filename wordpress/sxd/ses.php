@@ -1,6 +1,6 @@
 <?php
 $SES = array (
-  'f6291a4bed50608263988cd84522eff8' => 
+  '3940333baa496dbf2c75c6fd302cbc6a' => 
   array (
     'cfg' => 
     array (
@@ -14,17 +14,19 @@ $SES = array (
       'globstat' => 0,
       'my_host' => 'localhost',
       'my_port' => 3306,
-      'my_user' => 'doctormarina_us',
-      'my_pass' => 'ISaAefqwetwqqw44t',
+      'my_user' => 'DBUSER',
+      'my_pass' => 'DBPASS',
       'my_comp' => 0,
       'my_db' => '',
-      'auth' => 'wp3 mysql cfg',
+      'auth' => 'mysql cfg',
       'user' => '',
       'pass' => '',
-      'confirm' => '6',
+      'confirm' => '30',
       'exitURL' => './',
+      'outfile_path' => 'backup/',
+      'outfile_size' => '64',
     ),
-    'time' => 1421137495,
+    'time' => 1444749535,
     'lng' => 'uk',
   ),
 );

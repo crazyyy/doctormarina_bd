@@ -45,7 +45,7 @@
             });
         }
 
-    $(window).on('load', showBlock);
+    	$(document).on('ready', showBlock);
     });
 
     /**
@@ -64,9 +64,5 @@
         $( this ).parent().next( '.children, .sub-menu' ).toggleClass( 'sub-on' );
         $( this ).attr( 'aria-expanded', $( this ).attr( 'aria-expanded' ) == 'false' ? 'true' : 'false');
     } );
-
-    $('.headerok-small .menu-page-header-menu-container').click ( function( e ) {
-        $( this ).toggleClass( 'menu-display' );
-    });
 
 })(jQuery);

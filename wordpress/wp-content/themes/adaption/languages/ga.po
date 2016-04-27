@@ -7,12 +7,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
-"X-Generator: GlotPress/0.1\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
 "Project-Id-Version: Adaption\n"
 
+#: functions.php:90
+msgid "Mobile Widgets"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/adaption/style.css
 msgid "A theme that adapts to your content, making sure it looks good on any device. Full width featured images make your content stand out. This theme adapts as add widgets with a 3rd column added to the layout."
 msgstr ""
 
+#. Author of the plugin/theme
+#: wp-content/themes/pub/adaption/style.css
 msgid "Automattic"
 msgstr ""
 
@@ -83,7 +91,7 @@ msgstr "Treoraíocht alt"
 msgid "Page %s"
 msgstr "Leathanach %s"
 
-#: header.php:38 header.php:101
+#: header.php:38 header.php:93
 msgid "Skip to content"
 msgstr "Beir go dtí an t-alt féin mé"
 
@@ -99,12 +107,18 @@ msgstr "Taobh-Bharra a hAon"
 msgid "Sidebar Two"
 msgstr "Taobh-Bharra a Dó"
 
-#: functions.php:104
+#. translators: If there are characters in your language that are not supported
+#. by Arimo, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:113
 msgctxt "Arimo sans-serif font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:112
+#. translators: To add an additional Armio character subsets,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'.
+#. * Do not translate these strings into your own langauge.
+#: functions.php:121
 msgctxt "Arimo: add new subset (cyrillic, greek, vietnamese)"
 msgid "no-subset"
 msgstr ""
@@ -137,6 +151,7 @@ msgstr "1 Fhreagra Amháin"
 msgid "Leave a comment"
 msgstr "Freagra"
 
+#. translators: used between list items, there is a space after the comma
 #: content-single.php:60 content.php:82
 msgid " "
 msgstr " "
@@ -153,6 +168,7 @@ msgstr "Na %s alt uile"
 msgid " Edit"
 msgstr "Eagar"
 
+#. translators: used between list items, there is a space after the comma
 #: content-single.php:24 content.php:30
 msgid ", "
 msgstr ", "
@@ -277,6 +293,7 @@ msgstr "Lá: %s"
 msgid "Author: %s"
 msgstr "Údar: %s"
 
+#. translators: %1$s: smiley
 #: 404.php:44
 msgid "Try looking in the monthly archives. %1$s"
 msgstr "Amharc ar na cartlanna míosa. %1$s"

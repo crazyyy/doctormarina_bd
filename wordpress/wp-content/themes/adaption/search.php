@@ -8,7 +8,6 @@
 get_header(); ?>
 
 	<section id="primary" class="content-area">
-		<?php get_template_part('headerok'); ?>
 		<main id="main" class="site-main" role="main">
 
 		<?php if ( have_posts() ) : ?>
